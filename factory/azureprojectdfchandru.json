@@ -1,0 +1,15 @@
+{
+	"name": "azureprojectdfchandru",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5ef1fdb0-0411-4c96-a9cd-de434bb4cb5d",
+		"tenantId": "f47a3125-e640-4764-8348-0341b8e5a473"
+	}
+}
